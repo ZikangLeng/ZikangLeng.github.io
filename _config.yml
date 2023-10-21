@@ -81,14 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Zikang Leng"
-  avatar           : "profile.png"
-  bio              : "CS Student at Georgia Tech"
+  avatar           : "Zikang Leng_86A5691.jpg"
+  bio              : "CS student at Georgia Tech"
   location         : "Atlanta, Georgia"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=P6qXmC8AAAAJ&hl=en"
-  email            :  "zleng7@gatech.edu"
-  researchgate     :  
+  email            : "zleng7@gatech.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zikang-leng/"
+  linkedin         : "zikang-leng/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zikangLeng"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -255,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

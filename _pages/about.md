@@ -12,7 +12,7 @@ I am a third/final year Undergrad student with the College of Computing double m
 Georgia Institute of Techology, Atlanta. I am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz) 
 and [Prof. Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html).
 
-[My resume can be found here](https://github.com/ZikangLeng/zikang.github.io/blob/master/files/Resume%20(4).pdf)
+[My resume can be found here](https://zikang.github.io/files/Resume.pdf)
 
   
   

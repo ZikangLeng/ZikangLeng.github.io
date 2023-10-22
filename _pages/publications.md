@@ -10,9 +10,12 @@ author_profile: true
 
 {% include base_path %}
 
-<br> <b> [FingerSpeller: Camera-Free Text Entry Using Smart Rings for American Sign Language Fingerspelling Recognition](https://dl.acm.org/doi/10.1145/3597638.3614491) </b>
-<br> David Martin*, <b>Zikang Leng*</b>, Tan Gemicioglu, Jon Womack, Jocelyn Heath, William C Neubauer, Hyeokhyen Kwon, Thomas Plötz, Thad Starner.
-<br> ASSETS, 2023.
+<div style="overflow: auto;"> <!-- This div contains the entire entry -->
+  <img src="https://zikangleng.github.io/zikang.github.io//images/fingerspeller.png" style="float: left; margin-right: 15px; width: 100px;"> <!-- Image on the left -->
+  <b> [FingerSpeller: Camera-Free Text Entry Using Smart Rings for American Sign Language Fingerspelling Recognition](https://dl.acm.org/doi/10.1145/3597638.3614491) </b>
+  <br> David Martin*, <b>Zikang Leng*</b>, Tan Gemicioglu, Jon Womack, Jocelyn Heath, William C Neubauer, Hyeokhyen Kwon, Thomas Plötz, Thad Starner.
+  <br> ASSETS, 2023.
+</div>
 
 <br> <b> [On the Benefit of Generative Foundation Models for Human Activity Recognition](https://arxiv.org/abs/2310.12085) </b>
 <br> <b>Zikang Leng</b>, Hyeokhyen Kwon, Thomas Plötz

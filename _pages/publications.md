@@ -21,7 +21,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: start; margin-bottom: 20px;">
-  <img src="../images/genai.png" style="margin-right: 15px; width: 100px;">
+  <img src="../images/genai.png" style="margin-right: 15px; width: 150px;">
   <div>
       <b><a href="https://arxiv.org/abs/2310.12085">On the Benefit of Generative Foundation Models for Human Activity Recognition</a></b>
       <br> <b>Zikang Leng</b>, Hyeokhyen Kwon, Thomas Plötz
@@ -30,7 +30,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: start; margin-bottom: 20px;">
-  <img src="../images/imugpt.png" style="margin-right: 15px; width: 100px;">
+  <img src="../images/imugpt.png" style="margin-right: 15px; width: 150px;">
   <div>
       <b><a href="https://dl.acm.org/doi/10.1145/3594738.3611361">Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition</a></b>
       <br> <b>Zikang Leng</b>, Hyeokhyen Kwon, Thomas Plötz
@@ -40,7 +40,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: start; margin-bottom: 20px;">
-  <img src="../images/msi.png" style="margin-right: 15px; width: 100px;">
+  <img src="../images/msi.png" style="margin-right: 15px; width: 150px;">
   <div>
       <b><a href="https://dl.acm.org/doi/10.1145/3594738.3611364">On the Utility of Virtual On-body Acceleration Data for Fine-grained Human Activity Recognition</a></b>
       <br> <b>Zikang Leng</b>, Yash Jain, Hyeokhyen Kwon, Thomas Plötz

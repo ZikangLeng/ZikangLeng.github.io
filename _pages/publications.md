@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 <div style="overflow: auto;"> <!-- This div contains the entire entry -->
-  <img src="fingerspeller.png" style="float: left; margin-right: 15px; width: 100px;"> <!-- Image on the left -->
+  <img src="https://github.com/ZikangLeng/zikangleng.github.io/blob/master/images/fingerspeller.png" style="float: left; margin-right: 15px; width: 100px;"> <!-- Image on the left -->
   <b> [FingerSpeller: Camera-Free Text Entry Using Smart Rings for American Sign Language Fingerspelling Recognition](https://dl.acm.org/doi/10.1145/3597638.3614491) </b>
   <br> David Martin*, <b>Zikang Leng*</b>, Tan Gemicioglu, Jon Womack, Jocelyn Heath, William C Neubauer, Hyeokhyen Kwon, Thomas Plötz, Thad Starner.
   <br> ASSETS, 2023.

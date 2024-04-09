@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a third/final year Undergrad student with the College of Computing double majoring in Computer Science and Physics at
-Georgia Institute of Techology, Atlanta. I am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz)
-and [Prof. Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html).
+Georgia Tech, Atlanta. I am advised by [Prof. Thomas Ploetz](https://www.cc.gatech.edu/people/thomas-ploetz)
+and [Prof. Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html). I will begin my PhD study at Georgia Tech in August, 2024. My research is supported by the National Science Foundation Graduate Research Fellowship.
 
 [My CV can be found here](../files/Resume.pdf)
 

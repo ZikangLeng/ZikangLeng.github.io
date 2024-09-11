@@ -20,6 +20,7 @@ and [Prof. Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.htm
 My research lies at the intersection of computer vision and ubiquitous computing. A significant portion of my research focuses on generating synthetic/virtual sensor data from videos and texts to augment existing datasets for human activity recognition. This approach facilitates more robust and generalizable model training. Additionally, I've delved into sign language recognition, collaborating with [Prof. Thad Starner](https://www.cc.gatech.edu/people/thad-starner) and technologies for diabetes management in collaboration with [Prof. Rosa Arriaga](https://sites.google.com/view/riarriaga/home?authuser=0).
 
 ## Recent News
+- 📖 Sep, 2023: Our paper - [IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition](https://dl.acm.org/doi/10.1145/3678545) have been published at [IMWUT](https://dl.acm.org/journal/imwut). 
 - 🎉 Aug, 2024: Starting my PhD in Computer Science at Georgia Tech.
 - 🏆 Apr, 2024: Awarded the [Provost's Academic Excellence Award](https://loveaward.oue.gatech.edu/provost-excellence-award/#:~:text=Established%20in%202021%2C%20the%20Provost's,scholastic%20record%20from%20their%20college.), recognizing me as the most outstanding graduating senior from Georgia Tech's College of Computing. 
 - 🎙️ Apr, 2024: Presented my research on IMUGPT at the [ACC Meeting of the Minds conference](https://motm2024conference.nd.edu/) as one of the five selected undergraduate students representing Georgia Tech. 

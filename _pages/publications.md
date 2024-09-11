@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% include base_path %}
 
 <div style="display: flex; align-items: start; margin-bottom: 20px;">
-  <img src="../images/imugpt2.png" style="margin-right: 15px; width: 150px;">
+  <img src="../images/imugpt2.png" style="margin-right: 15px; width: 250px;">
   <div>
       <b><a href="https://dl.acm.org/doi/10.1145/3678545">IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition</a></b>
       <br> <b>Zikang Leng</b>, Amitrajit Bhattacharjee, Hrudhai Rajasekhar, Lizhe Zhang, Elizabeth Bruda， Hyeokhyen Kwon, Thomas Plötz
